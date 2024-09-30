@@ -1,0 +1,11 @@
+langchain
+langchain-community
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+langchain-cohere
+langchain_core
